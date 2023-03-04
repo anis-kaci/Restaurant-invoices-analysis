@@ -1,0 +1,1 @@
+Jupyter notebook representing a simple restaurant invoices analysis project, based on the tips dataset on the seaborn-data github repository, this analysis was conducted in a Data analytics workshop held in Paris by Davy Wai.
